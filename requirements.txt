@@ -4,7 +4,7 @@ distro
 packaging
 pillow
 scikit-build
-numpy
+numpy<2
 pip
 opencv-python
 pytesseract
